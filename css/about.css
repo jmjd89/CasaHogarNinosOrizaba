@@ -1,0 +1,38 @@
+body
+{
+    background-color: lightgrey;
+    padding: 10px;
+}
+
+.contenedorPrincipal
+{
+    background-color: white;
+}
+
+.encabezado
+{
+    margin: 0px;
+    text-align: center;
+    padding: 10px;
+}
+.bordes
+{
+    border: 0px;
+    border-bottom: 1px;
+    border-style: inset;
+}
+
+.contenido
+{
+    margin: 0px;
+    text-align: justify;
+    padding: 10px;
+}
+
+.resetearMargin
+{
+    margin: 0px;
+}
+
+
+
