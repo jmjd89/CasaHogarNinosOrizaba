@@ -1,0 +1,53 @@
+body
+{
+    background-color:lightblue;
+    padding: 10px;
+}
+
+.contenedorPrincipal
+{
+    background-color: ghostwhite;
+
+}
+
+.textoPrincipal
+{
+    font-size: 25px;
+}
+
+#textoEncabezado
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.encabezado
+{
+    padding: 10px;
+    text-align: center;
+    text-align: center;
+}
+
+.bordes
+{
+    border: 0px;
+    border-bottom: 1px;
+    border-style:inset;
+}
+
+.contenido
+{
+    padding: 10px;
+}
+
+.footer
+{
+    padding: 10px;
+}
+
+.autor
+{
+    text-align: right;
+}
+
+
